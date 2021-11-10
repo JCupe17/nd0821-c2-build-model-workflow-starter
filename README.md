@@ -567,3 +567,9 @@ you have trained your new model on the new data.
 ## License
 
 [License](LICENSE.txt)
+
+## Project links
+
+Here is the link of the public W&B project [W&B project](https://wandb.ai/jcupe/nyc_airbnb?workspace=user-jcupe)
+
+Here is the link of the public repository on github [link](https://github.com/JCupe17/nd0821-c2-build-model-workflow-starter)
